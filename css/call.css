@@ -1,0 +1,168 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.heropage {
+    background-color: #00142B;
+}
+.inner .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+.left .glyphicon  { 
+    top: 11px; color: #BCC1C7;
+}
+.left input  { 
+    padding-left:  30px;
+    margin-top: 11px;
+    background-color: rgb(64, 79, 96) !important;
+    border: none;
+    width: 35vw;
+}
+#bar {
+    float: left;
+}
+.section1 {
+    color: #ffffff;
+    text-align: center;
+    padding-top: 100px;
+}
+.btn {
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    margin: 50px 20px 20px 20px;
+}
+.glyphicon-chevron-down {
+    color: #ffffff;
+    margin-top: 120px;
+}
+.download {
+    background-color: #00CF35;
+    text-align: center;
+    width: 100%;
+    height: 650px;
+}
+.section2 {
+    margin-top: 10%;    
+}
+.section2 h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 54px;
+    color: #ffffff;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.section2 h5{
+    font-weight: 300;
+    font-size: 20px;
+    color: #ffffff;
+}
+#viberlogo {
+    width: 70px;
+}
+.btn-primary {
+    border-radius: 30px;
+    border: none;
+    background-color: #735A97 !important;
+}
+.glyphicon-save {
+    margin-left: 10px;
+}
+.messaging {
+    background-color: #7C5CFF;
+    text-align: center;
+    width: 100%;
+    height: 650px;
+}
+.section3 h1 {
+    font-weight: 200;
+    font-size: 44px;
+    color: #ffffff;
+    margin-top: 70px;
+}
+.section3 p {
+    font-weight: 300;
+    font-size: 15px;
+    color: #ffffff;
+}
+.row {
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.img-thumbnail {
+    background-color: #7C5CFF !important;
+    border: none;
+    color: #ffffff;
+}
+.explore {
+    border-radius: 30px;
+    border: none;
+}
+.endpage {
+    width: 100%;
+    height: 464px;
+    background-color: #273443;
+}
+.footer {
+    background-color: #273443;
+    width: 100%;
+    height: 390px;
+}
+.navbar {
+    background-color: #232F3C;
+    margin-top: 100px;
+}
+.tableE1 {
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 100px;
+    color: #ffffff;
+    float: left;
+    pointer-events: none;
+}
+.tableE2 {
+    width: 145px;
+    margin-top: 50px;
+    margin-right: 100px;
+    color: #ffffff;
+    float: left;
+    pointer-events: none;
+}
+.tableE3 {
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: #ffffff;
+    pointer-events: none;
+}
+.tableE4 {
+    float: right;
+    bottom: 250px;
+    right: 100px;
+}
+.copyright, .credits {
+    color: #ffffff;
+    float: left;
+    bottom:900px;
+}
+.modal{
+    color: #333333;
+}
+.howto {
+    background-color: #7C5CFF;
+    text-align: center;
+    width: 100%;
+    height: 700px;
+}
+.breadcrumb{
+    width: 15%;
+}
+.section2 .btn{
+    background-color: #735A97;
+    border-radius: 40px;
+    border: none;
+    color: #ffffff;
+}
